@@ -1,0 +1,24 @@
+
+body{
+    justify-content: center;
+  background-image:url('https://png.pngtree.com/background/20210714/original/pngtree-bokeh-light-multi-color-background-picture-image_1195596.jpg');
+.one{
+    background-color: white;
+    width:500px;
+    height:200px;
+    margin-top:500px;
+    margin-left: 100px;
+    border-radius: 20px;
+
+}
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+   
+}
+button{
+    border-radius: 16px;
+    color:beige;
+    padding: 5px;
+    background-color: black;
+}
